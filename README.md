@@ -1,1 +1,2 @@
-This home page is suitable for photography studios.
+This home page is suitable for photography studios...
+It is a simple home page.
